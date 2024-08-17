@@ -43,5 +43,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Akash Raj](https://www.roshiv.notion.site)
+- Website - [Akash Raj](https://roshiv.notion.site)
 - Frontend Mentor - [@akasr](https://www.frontendmentor.io/profile/akasr)
