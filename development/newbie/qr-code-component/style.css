@@ -103,3 +103,14 @@ footer {
 }
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
+
+/* For bigger screens */
+@media only screen and (min-width: 900px) {
+    body {
+        padding: 10.13333rem 0rem 10.06667rem 0rem;
+    }
+    .container {
+        width: 21.33333rem;
+        height: 33.13333rem;
+    }
+}
