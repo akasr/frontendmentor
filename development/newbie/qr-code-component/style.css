@@ -68,6 +68,9 @@ body {
     z-index: 1;
     overflow: hidden;
     padding: 4.27rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .qr-code {
     width: 10.66667rem;
